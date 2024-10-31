@@ -136,10 +136,10 @@ Esta documentação descreve a configuração de uma infraestrutura AWS para hos
 •	Health Check e Configuração Final: Cria um arquivo de saúde para o Load Balancer e ajusta o wp-config.php do WordPress com as credenciais do banco de dados.
 
 
-![Imagem 3](imagem/imagen3.png)
+![Imagem 3](imagem/imagem3.png)
 
-![Imagem 4](imagem/imagen4.png)
+![Imagem 4](imagem/imagem4.png)
 
-![Imagem 5](imagem/imagen5.png)
+![Imagem 5](imagem/imagem5.png)
 
-![Imagem 6](imagem/imagen6.png)
+![Imagem 6](imagem/imagem6.png)
