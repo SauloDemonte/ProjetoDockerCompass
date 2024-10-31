@@ -3,9 +3,9 @@
 
 Esta documentação descreve a configuração de uma infraestrutura AWS para hospedar uma aplicação WordPress de maneira escalável e resiliente. Ela inclui a utilização de serviços como VPC, Subnets, Security Groups, NAT Gateway, Internet Gateway, Amazon RDS, Amazon EFS, Load Balancer e uma instância EC2 com Docker para o WordPress.
 
-![Imagem 1](imagem/imagen1.png)
+![Imagem 1](imagem/Imagem1.png)
 
-![Imagem 2](imagem/imagen2.png)
+![Imagem 2](imagem/Imagem2.png)
 
 
 # Sumário
